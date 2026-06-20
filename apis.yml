@@ -2,7 +2,7 @@ aid: knoll
 url: https://raw.githubusercontent.com/api-evangelist/knoll/refs/heads/main/apis.yml
 name: Knoll Inc
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Furniture
   - Design
@@ -19,7 +19,7 @@ apis:
       - Furniture
       - Design
       - Office
-    image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     baseURL: https://api.knoll.com
     humanURL: https://developer.knoll.com
     properties:
