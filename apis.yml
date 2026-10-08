@@ -51,6 +51,12 @@ apis:
     description: >-
       The Knoll Inc API provides access to platform services and data for enterprise integration and automation.
 common:
+  - type: Plans
+    url: plans/knoll-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/knoll-rate-limits.yml
+  - type: FinOps
+    url: finops/knoll-finops.yml
   - url: https://www.knoll.com/news/
     type: Blog
   - type: DomainSecurity
